@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PianoExpert.API", "PianoExpert.API\PianoExpert.API.csproj", "{FB2826CD-7807-417C-AFE8-84DCC22F63B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2826CD-7807-417C-AFE8-84DCC22F63B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2826CD-7807-417C-AFE8-84DCC22F63B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2826CD-7807-417C-AFE8-84DCC22F63B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2826CD-7807-417C-AFE8-84DCC22F63B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B0675F2-A9E1-4934-8C81-6292B5E243D8}
+	EndGlobalSection
+EndGlobal
